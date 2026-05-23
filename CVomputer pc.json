@@ -1,0 +1,35 @@
+{
+  "background_path": "",
+  "layers": [
+    {
+      "path": "C:/Users/User/Downloads/computer_block_notext.png",
+      "min_vol": 0.0,
+      "max_vol": 0.2,
+      "name": "computer_block_notext.png"
+    },
+    {
+      "path": "C:/Users/User/Downloads/computer_block.png",
+      "min_vol": 0.2,
+      "max_vol": 0.5,
+      "name": "computer_block.png"
+    },
+    {
+      "path": "C:/Users/User/Downloads/computer_block_text.png",
+      "min_vol": 0.5,
+      "max_vol": 0.7,
+      "name": "computer_block_text.png"
+    },
+    {
+      "path": "C:/Users/User/Downloads/computer_block_text_01.png",
+      "min_vol": 0.7,
+      "max_vol": 1.0,
+      "name": "computer_block_text_01.png"
+    }
+  ],
+  "scream_threshold": 0.85,
+  "red_smoothness_ms": 196,
+  "sensitivity": 19,
+  "resolution": 0,
+  "camera_index": 0,
+  "microphone_index": 0
+}
